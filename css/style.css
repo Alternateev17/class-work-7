@@ -1,0 +1,136 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.text-cont {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.title {
+  font-family: Asap;
+  font-size: 30px;
+  line-height: 34px;
+  color: #202020;
+}
+
+span {
+  color: #2ec06c;
+}
+
+.text {
+  font-family: Karla;
+  font-size: 16px;
+  line-height: 19px;
+  padding-top: 46px;
+  color: #666666;
+}
+
+.position {
+  padding-top: 69px;
+  width: 100%;
+}
+
+.link {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid #3b5998;
+  box-sizing: border-box;
+  border-radius: 5px;
+  margin-bottom: 20px;
+  height: 140px;
+  width: 100%;
+}
+
+.bf {
+  border-color: #3B5998;
+}
+
+.tw {
+  border-color: #00ACED;
+}
+
+.in {
+  border-color: #517FA4;
+}
+
+.bo {
+  border-color: #2e50c0;
+}
+
+.form {
+  padding-top: 69px;
+}
+
+.inp {
+  padding: 16px 16px 16px;
+  width: 100%;
+  border: 1px solid #bababa;
+  box-sizing: border-box;
+  border-radius: 5px;
+  outline: none;
+}
+
+.inp-1 {
+  padding: 16px 16px 16px;
+  width: 100%;
+  border: 1px solid #bababa;
+  box-sizing: border-box;
+  border-radius: 5px;
+  outline: none;
+}
+
+.pos {
+  margin-top: 20px;
+}
+
+.t-area {
+  margin-top: 20px;
+  border: 1px solid #bababa;
+  border-radius: 5px;
+  margin: 20px 0px;
+  width: 100%;
+  height: 157px;
+  outline: none;
+}
+
+.btn {
+  background: #2ec06c;
+  border: none;
+  outline: none;
+}
+
+.icon {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #2ec06c;
+  border-radius: 0px 5px 5px 0px;
+  width: 100%;
+  margin: 20px 0;
+}
+
+.posin-1 {
+  width: 100%;
+}
+
+.color:hover a {
+  background: #FF0084;
+}
+
+.inp:focus {
+  border-color: #2ec06c;
+}
+
+.inp-1:focus {
+  border-color: #2ec06c;
+}
+
+.t-area:focus {
+  border-color: #2ec06c;
+}
